@@ -115,9 +115,9 @@
 项目地址：https://github.com/liangxioa/formedit
 本项目是基于React制作的表单生成工具，实现了类似excel式的表单编辑功能，极大的提高了表单编辑的效率。
 
-### 【仿IOS计算器小程序】
+### 【仿iOS计算器小程序】
 项目地址：https://github.com/liangxioa/mp_ioscalculator
-本项目是仿照IOS计算器开发制作的一个小程序计算工具。
+本项目是仿照iOS计算器开发制作的一个小程序计算工具。
 
 ### 【公式计算】
 项目地址：https://github.com/liangxioa/spc
