@@ -9,6 +9,23 @@
 
 **学校专业**：**河南科技大学** 机电工程学院
 
+**掘金**：https://juejin.im/user/5b3eaf9ff265da0f6b76e117
+
+**Github**：https://github.com/liangxioa/
+
+**期望职位**：Web前端高级程序员
+
+
+## 联系方式
+
+**手机号码**：17629701806
+
+**QQ**：804092147
+
+**邮箱**：804092147@qq.com
+
+**微信**：liangxioa521
+
 ## 技术能力
 
 专注并且热爱web开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
@@ -18,7 +35,7 @@
 * 掌握的CSS预编译器：Less、Sass
 * 掌握项目构建工具：Webpack
 * 掌握项目管理和协同工具的使用：SVN、Git
-* 掌握基本后端开发：NodeJS、Mysql、Nignx等
+* 掌握基本后端开发：NodeJS、Mysql、Nignx、PHP、Go等
 * 掌握不同方向技能：小程序、Electron、Cordova等
 * 掌握web相关技术：Socket、Express等
 * 其他工具使用：Photoshop、PxCook、Axure、Figma、Xmind、Office等
