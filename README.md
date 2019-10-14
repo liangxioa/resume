@@ -10,7 +10,7 @@
 
 **学校专业**：河南科技大学 机电工程学院
 
-**掘金**：https://juejin.im/user/5b3eaf9ff265da0f6b76e117
+**简书**：https://www.jianshu.com/u/ad0a6e47980a
 
 **Github**：https://github.com/liangxioa/
 
