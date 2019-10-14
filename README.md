@@ -14,7 +14,7 @@
 
 **Github**：https://github.com/liangxioa/
 
-**期望职位**：Web前端高级程序员
+**期望职位**：前端开发工程师
 
 
 ## 联系方式
