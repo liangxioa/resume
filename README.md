@@ -36,7 +36,7 @@
 * 掌握的CSS预编译器：Less、Sass
 * 掌握项目构建工具：Webpack
 * 掌握项目管理和协同工具的使用：SVN、Git
-* 掌握基本后端开发：NodeJS、Mysql、Nignx、PHP、Go等
+* 掌握基本后端开发：NodeJS、Python、Mysql、Nignx、PHP、Go等
 * 掌握不同方向技能：小程序、Electron、Cordova等
 * 掌握web相关技术：Socket、Express等
 * 其他工具使用：Photoshop、PxCook、Axure、Figma、Xmind、Office等
